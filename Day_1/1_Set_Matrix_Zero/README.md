@@ -16,9 +16,9 @@ O(m + n)
 
 The provided code solves the problem by following these steps:
 
-1. It first determines the dimensions of the input matrix 'm' (number of rows) and 'n' (number of columns).
+1. It first determines the dimensions of the input matrix `m` (number of rows) and `n` (number of columns).
 
-2. Two vectors, 'rows' and 'columns', are initialized to keep track of which rows and columns contain at least one 0.
+2. Two vectors, `rows` and `columns`, are initialized to keep track of which rows and columns contain at least one 0.
 
 3. It then iterates through the entire matrix using nested loops to identify the positions of 0s. When a 0 is encountered at matrix[i][j], it sets rows[i] and columns[j] to 1.
 
