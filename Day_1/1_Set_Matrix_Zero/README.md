@@ -1,4 +1,4 @@
-# Day 1: Set Matrix Zero
+# Problem 1 of Day 1: Set Matrix Zero
 
 ## Problem Statement
 
