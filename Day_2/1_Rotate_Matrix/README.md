@@ -6,7 +6,7 @@ The "Rotate Matrix" problem involves rotating an n x n 2D matrix by 90 degrees c
 
 ## Time Complexity
 
-(n^2)
+O(n^2)
 
 ## Space Complexity
 
