@@ -15,3 +15,4 @@ Collection of the solutions in C++
 | 5      | [Sort an Array of 0's, 1's, and 2's](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_1/5_Sort_An_Array_of_0s_1s_and_2s/code.cpp) | Day 1 | Arrays         | 2023-10-15 |
 | 6      | [Stock Buy And Sell](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_1/6_Stock_Buy_And_Sell/code.cpp)                            | Day 1 | Arrays         | 2023-10-15 |
 | 7      | [Rotate Matrix](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_2/1_Rotate_Matrix/code.cpp)                                      | Day 2 | Arrays Part-II | 2023-10-15 |
+| 8      | [Merge Overlapping Subintervals](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_2/2_Merge_Overlapping_Subintervals/code.cpp)    | Day 2 | Arrays Part-II | 2023-10-15 |
