@@ -23,4 +23,4 @@ Collection of the solutions in C++
 | 12     | [Search in a 2 D matrix](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_3/1_Search_In_A_2_D_Matrix)                                                 | Day 3 | Arrays Part-III | 2023-10-16 |
 | 13     | [Pow(x, n)](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_3/2_Pow_x_n)                                                                             | Day 3 | Arrays Part-III | 2023-10-16 |
 | 14     | [Majority Element (>n/2 times)](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_3/3_Majority_Element_n_2)                                            | Day 3 | Arrays Part-III | 2023-10-16 |
-| 14     | [Majority Element (n/3 times)](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_3/4_Majority_Element_n_3)                                             | Day 3 | Arrays Part-III | 2023-10-16 |
+| 15     | [Majority Element (n/3 times)](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_3/4_Majority_Element_n_3)                                             | Day 3 | Arrays Part-III | 2023-10-16 |
