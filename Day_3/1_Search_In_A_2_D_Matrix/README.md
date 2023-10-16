@@ -1,4 +1,4 @@
-# Problem 1 of Day 3: Search in a Sorted 2D Matrix"
+# Problem 1 of Day 3: Search in a Sorted 2D Matrix
 
 ## Problem Statement
 
