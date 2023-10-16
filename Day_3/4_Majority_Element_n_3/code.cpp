@@ -17,11 +17,35 @@ using namespace std;
 #define MAX 100005
 #define int ll
 
+vector<int> majorityElement(vector<int> &nums)
+{
+      int n = nums.size();
+
+      unordered_map<int, int> freq;
+      for (auto c : nums)
+            freq[c]++;
+
+      vector<int> ans;
+      for (auto c : freq)
+      {
+            if (c.second > (n / 3))
+                  ans.push_back(c.first);
+      }
+      return ans;
+}
+
 signed main()
 {
       ios_base::sync_with_stdio(0);
       cin.tie(0);
       cout.tie(0);
+
+      vector<int> arr = {11, 33, 33, 11, 33, 11};
+      vector<int> ans = majorityElement(arr);
+      cout << "The majority elements are: ";
+      for (auto it : ans)
+            cout << it << " ";
+      cout << "\n";
 
       return 0;
 }
