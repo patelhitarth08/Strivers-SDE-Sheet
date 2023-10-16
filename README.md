@@ -19,3 +19,4 @@ Collection of the solutions in C++
 | 9      | [Merge two Sorted Arrays Without Extra Space](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_2/3_Merge_Two_Sorted_Arrays_Without_Extra_Space)       | Day 2 | Arrays Part-II | 2023-10-15 |
 | 10     | [Find the duplicate in an array of N+1 integers](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_2/4_Find_the_duplicate_in_an_array_of_N+1_integers) | Day 2 | Arrays Part-II | 2023-10-15 |
 | 11     | [Repeat and Missing Number](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_2/5_Repeat_and_Missing_Number)                                           | Day 2 | Arrays Part-II | 2023-10-16 |
+| 12     | [Inversion of Array (Pre-req: Merge Sort)](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_2/6_Inversion_of_Array)                                   | Day 2 | Arrays Part-II | 2023-10-16 |
