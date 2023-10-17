@@ -29,3 +29,4 @@ Collection of the solutions in C++
 | 19     | [2Sum Problem](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_3/1_2Sum_Problem)                                                                     | Day 4 | Arrays Part-IV  | 2023-10-17 |
 | 20     | [4-Sum Problem](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_4/2_4Sum_Problem)                                                                    | Day 4 | Arrays Part-IV  | 2023-10-17 |
 | 21     | [Longest Consecutive Sequence](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_4/3_Longest_Consecutive_Sequence)                                     | Day 4 | Arrays Part-IV  | 2023-10-17 |
+| 22     | [Largest Subarray with K sum](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_4/4_Largest_Subarray_with_K_sum)                                       | Day 4 | Arrays Part-IV  | 2023-10-17 |
