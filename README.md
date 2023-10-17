@@ -27,3 +27,4 @@ Collection of the solutions in C++
 | 16     | [Grid Unique Paths](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_3/5_Grid_Unique_Paths)                                                           | Day 3 | Arrays Part-III | 2023-10-16 |
 | 17     | [Reverse Pairs](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_3/6_Reverse_Pairs)                                                                   | Day 3 | Arrays Part-III | 2023-10-17 |
 | 18     | [2Sum Problem](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_3/1_2Sum_Problem)                                                                     | Day 4 | Arrays Part-IV  | 2023-10-17 |
+| 19     | [4-Sum Problem](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_4/2_4Sum_Problem)                                                                    | Day 4 | Arrays Part-IV  | 2023-10-17 |
