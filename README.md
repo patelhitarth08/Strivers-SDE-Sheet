@@ -30,3 +30,4 @@ Collection of the solutions in C++
 | 20     | [4-Sum Problem](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_4/2_4Sum_Problem)                                                                    | Day 4 | Arrays Part-IV  | 2023-10-17 |
 | 21     | [Longest Consecutive Sequence](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_4/3_Longest_Consecutive_Sequence)                                     | Day 4 | Arrays Part-IV  | 2023-10-17 |
 | 22     | [Largest Subarray with K sum](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_4/4_Largest_Subarray_with_K_sum)                                       | Day 4 | Arrays Part-IV  | 2023-10-17 |
+| 23     | [Count number of subarrays with given xor K](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_4/5_Count_number_of_subarrays_with_given_xor_K)         | Day 4 | Arrays Part-IV  | 2023-10-17 |
