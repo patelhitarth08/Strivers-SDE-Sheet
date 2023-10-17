@@ -25,3 +25,4 @@ Collection of the solutions in C++
 | 14     | [Majority Element (>n/2 times)](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_3/3_Majority_Element_n_2)                                            | Day 3 | Arrays Part-III | 2023-10-16 |
 | 15     | [Majority Element (n/3 times)](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_3/4_Majority_Element_n_3)                                             | Day 3 | Arrays Part-III | 2023-10-16 |
 | 16     | [Grid Unique Paths](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_3/5_Grid_Unique_Paths)                                                           | Day 3 | Arrays Part-III | 2023-10-16 |
+| 17     | [Reverse Pairs](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_3/6_Reverse_Pairs)                                                                   | Day 3 | Arrays Part-III | 2023-10-17 |
