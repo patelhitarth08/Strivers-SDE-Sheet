@@ -1,4 +1,4 @@
-# Day 2
+# Day 3
 
 ### 1. [Search in a 2 D matrix](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_3/1_Search_In_A_2_D_Matrix)
 

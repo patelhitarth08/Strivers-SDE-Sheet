@@ -65,7 +65,7 @@ int mergeSort(vector<int> &nums, int low, int high)
       int mid = (low + high) / 2;
       count += mergeSort(nums, low, mid);
       count += mergeSort(nums, mid + 1, high);
-      count += merge(nums, low, mid, high );
+      count += merge(nums, low, mid, high);
       return count;
 }
 
