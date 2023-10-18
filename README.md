@@ -32,3 +32,4 @@ Collection of the solutions in C++
 | 22     | [Largest Subarray with K sum](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_4/4_Largest_Subarray_with_K_sum)                                       | Day 4 | Arrays Part-IV  | 2023-10-17 |
 | 23     | [Count number of subarrays with given xor K](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_4/5_Count_number_of_subarrays_with_given_xor_K)         | Day 4 | Arrays Part-IV  | 2023-10-17 |
 | 24     | [Longest Substring without repeat](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_4/6_Longest_Substring_without_repeat)                             | Day 4 | Arrays Part-IV  | 2023-10-18 |
+| 25     | [Reverse a LinkedList](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_5/1_Reverse_a_LinkedList)                                                     | Day 5 | Linked List     | 2023-10-18 |
