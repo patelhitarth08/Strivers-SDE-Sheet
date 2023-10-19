@@ -1,4 +1,4 @@
-# Day 2
+# Day 2: Arrays Part-II
 
 ### 1. [Rotate Matrix](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_2/1_Rotate_Matrix)
 

@@ -1,4 +1,4 @@
-# Day 4
+# Day 4: Arrays Part-IV
 
 ### 1. [2Sum Problem](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_4/1_2Sum_Problem)
 

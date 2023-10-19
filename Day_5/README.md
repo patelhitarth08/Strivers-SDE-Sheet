@@ -1,4 +1,4 @@
-# Day 5
+# Day 5: Linked List
 
 ### 1. [Reverse a LinkedList](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_5/1_Reverse_a_LinkedList)
 

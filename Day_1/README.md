@@ -1,4 +1,4 @@
-# Day 1
+# Day 1: Arrays
 
 ### 1. [Set Matrix Zeros](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_1/1_Set_Matrix_Zero)
 
