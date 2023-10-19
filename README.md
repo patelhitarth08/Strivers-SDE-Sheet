@@ -35,3 +35,4 @@ Collection of the solutions in C++
 | 25     | [Reverse a LinkedList](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_5/1_Reverse_a_LinkedList)                                                     | Day 5 | Linked List     | 2023-10-18 |
 | 26     | [Find the middle of LinkedList](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_5/2_Find_the_middle_of_LinkedList)                                   | Day 5 | Linked List     | 2023-10-19 |
 | 27     | [Merge two sorted Linked Lists](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_5/3_Merge_two_sorted_Linked_Lists)                                   | Day 5 | Linked List     | 2023-10-19 |
+| 28     | [Remove N-th node from back of LinkedList](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_5/4_Remove_N_th_node_from_back_of_LinkedList)             | Day 5 | Linked List     | 2023-10-19 |
