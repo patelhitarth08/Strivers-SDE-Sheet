@@ -34,3 +34,4 @@ Collection of the solutions in C++
 | 24     | [Longest Substring without repeat](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_4/6_Longest_Substring_without_repeat)                             | Day 4 | Arrays Part-IV  | 2023-10-18 |
 | 25     | [Reverse a LinkedList](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_5/1_Reverse_a_LinkedList)                                                     | Day 5 | Linked List     | 2023-10-18 |
 | 26     | [Find the middle of LinkedList](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_5/2_Find_the_middle_of_LinkedList)                                   | Day 5 | Linked List     | 2023-10-19 |
+| 27     | [Merge two sorted Linked Lists](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_5/3_Merge_two_sorted_Linked_Lists)                                   | Day 5 | Linked List     | 2023-10-19 |
