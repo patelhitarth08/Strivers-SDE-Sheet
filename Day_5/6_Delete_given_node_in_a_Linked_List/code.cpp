@@ -44,7 +44,6 @@ signed main()
       head->next->next = new ListNode(3);
       head->next->next->next = new ListNode(4);
 
-      // Print the original linked list
       cout << "Original Linked List: ";
       ListNode *current = head;
       while (current != nullptr)
@@ -58,13 +57,10 @@ signed main()
       }
       cout << endl;
 
-      // Select the node you want to delete (e.g., the second node)
       ListNode *nodeToDelete = head->next;
 
-      // Call the function to delete the selected node
       deleteNode(nodeToDelete);
 
-      // Print the linked list after deletion
       cout << "Linked List after deleting the selected node: ";
       current = head;
       while (current != nullptr)

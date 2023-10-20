@@ -27,11 +27,52 @@ public:
       ListNode(int x, ListNode *next) : val(x), next(next) {}
 };
 
+bool hasCycle(ListNode *head)
+{
+      ListNode *slow = head;
+      ListNode *fast = head;
+
+      while (fast != NULL && fast->next != NULL)
+      {
+            slow = slow->next;
+            fast = fast->next->next;
+
+            if (slow == fast)
+                  return true;
+      }
+
+      return false;
+}
+
 signed main()
 {
       ios_base::sync_with_stdio(0);
       cin.tie(0);
       cout.tie(0);
+
+      ListNode *head = new ListNode(1);
+      ListNode *second = new ListNode(2);
+      ListNode *third = new ListNode(3);
+      ListNode *fourth = new ListNode(4);
+
+      head->next = second;
+      second->next = third;
+      third->next = fourth;
+      fourth->next = second;
+
+      if (hasCycle(head))
+      {
+            cout << "The linked list has a cycle." << endl;
+      }
+      else
+      {
+            cout << "The linked list does not have a cycle." << endl;
+      }
+
+      delete head;
+      delete second;
+      delete third;
+      delete fourth;
 
       return 0;
 }

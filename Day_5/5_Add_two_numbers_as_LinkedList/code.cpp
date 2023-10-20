@@ -82,12 +82,10 @@ signed main()
       l1->next = new ListNode(4);
       l1->next->next = new ListNode(3);
 
-      // Create the second linked list representing a number (e.g., 465)
       ListNode *l2 = new ListNode(5);
       l2->next = new ListNode(6);
       l2->next->next = new ListNode(4);
 
-      // Print the first number
       cout << "Number 1: ";
       ListNode *current1 = l1;
       while (current1 != nullptr)
@@ -101,7 +99,6 @@ signed main()
       }
       cout << endl;
 
-      // Print the second number
       cout << "Number 2: ";
       ListNode *current2 = l2;
       while (current2 != nullptr)
@@ -115,10 +112,8 @@ signed main()
       }
       cout << endl;
 
-      // Call the function to add the two numbers and get the result
       ListNode *sum = addTwoNumbers(l1, l2);
 
-      // Print the result
       cout << "Sum of Numbers 1 and 2: ";
       ListNode *currentSum = sum;
       while (currentSum != nullptr)
