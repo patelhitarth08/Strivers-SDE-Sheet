@@ -40,3 +40,4 @@ Collection of the solutions in C++
 | 30     | [Delete given node in a Linked List](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_5/6_Delete_given_node_in_a_Linked_List)                         | Day 5 | Linked List         | 2023-10-20 |
 | 31     | [Find intersection point of Y LinkedList](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_6/1_Find_intersection_point_of_Y_LinkedList)               | Day 6 | Linked List Part-II | 2023-10-20 |
 | 32     | [Detect a cycle in Linked List](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_6/2_Detect_a_cycle_in_Linked_List)                                   | Day 6 | Linked List Part-II | 2023-10-20 |
+| 33     | [Reverse a LinkedList in groups of size k](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_6/3_Reverse_a_LinkedList_in_groups_of_size_k)             | Day 6 | Linked List Part-II | 2024-01-14 |
