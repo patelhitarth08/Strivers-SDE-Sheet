@@ -50,3 +50,4 @@ Collection of the solutions in C++
 | 40     | [Trapping Rainwater](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_7/4_Trapping_Rainwater)                                                             | Day 7 | Linked List and Arrays | 2024-01-16 |
 | 41     | [Remove Duplicate from Sorted array](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_7/5_Remove_Duplicate_from_Sorted_array)                             | Day 7 | Linked List and Arrays | 2024-01-16 |
 | 42     | [Max consecutive ones](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_7/6_Max_consecutive_ones)                                                         | Day 7 | Linked List and Arrays | 2024-01-16 |
+| 43     | [N meetings in one room](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_8/1_N_meetings_in_one_room)                                                     | Day 8 | Greedy Algorithm       | 2024-01-16 |
