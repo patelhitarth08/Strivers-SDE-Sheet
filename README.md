@@ -46,3 +46,4 @@ Collection of the solutions in C++
 | 36     | [Flattening of a LinkedList](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_6/6_Flattening_of_a_LinkedList)                                             | Day 6 | Linked List Part-II    | 2024-01-15 |
 | 37     | [Rotate a LinkedList](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_7/1_Rotate_a_LinkedList)                                                           | Day 7 | Linked List and Arrays | 2024-01-15 |
 | 38     | [Clone a Linked List with random and next pointer](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_7/2_Clone_a_Linked_List_with_random_and_next_pointer) | Day 7 | Linked List and Arrays | 2024-01-15 |
+| 39     | [3 Sum](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_7/3_3_Sum)                                                                                       | Day 7 | Linked List and Arrays | 2024-01-15 |
