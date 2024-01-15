@@ -47,3 +47,4 @@ Collection of the solutions in C++
 | 37     | [Rotate a LinkedList](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_7/1_Rotate_a_LinkedList)                                                           | Day 7 | Linked List and Arrays | 2024-01-15 |
 | 38     | [Clone a Linked List with random and next pointer](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_7/2_Clone_a_Linked_List_with_random_and_next_pointer) | Day 7 | Linked List and Arrays | 2024-01-15 |
 | 39     | [3 Sum](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_7/3_3_Sum)                                                                                       | Day 7 | Linked List and Arrays | 2024-01-15 |
+| 40     | [Trapping Rainwater](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_7/4_Trapping_Rainwater)                                                             | Day 7 | Linked List and Arrays | 2024-01-16 |
