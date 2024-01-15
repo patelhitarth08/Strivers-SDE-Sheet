@@ -1,4 +1,4 @@
-# Day 5: Linked List
+# Day 6: Linked List Part-II
 
 ### 1. [Find intersection point of Y LinkedList](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_6/1_Find_intersection_point_of_Y_LinkedList)
 
