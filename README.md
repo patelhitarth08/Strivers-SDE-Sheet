@@ -43,3 +43,4 @@ Collection of the solutions in C++
 | 33     | [Reverse a LinkedList in groups of size k](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_6/3_Reverse_a_LinkedList_in_groups_of_size_k)             | Day 6 | Linked List Part-II | 2024-01-14 |
 | 34     | [Check if given Linked List is Plaindrome](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_6/4_Check_if_given_Linked_List_is_Plaindrome)             | Day 6 | Linked List Part-II | 2024-01-14 |
 | 35     | [Starting point of loop in a Linked List](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_6/5_Starting_point_of_loop_in_a_Linked_List)               | Day 6 | Linked List Part-II | 2024-01-14 |
+| 36     | [Flattening of a LinkedList](https://github.com/patelhitarth08/Strivers-SDE-Sheet/blob/main/Day_6/6_Flattening_of_a_LinkedList)                                         | Day 6 | Linked List Part-II | 2024-01-15 |
