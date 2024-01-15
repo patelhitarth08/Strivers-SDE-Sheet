@@ -17,21 +17,39 @@ using namespace std;
 #define MAX 100005
 #define int ll
 
-class ListNode
+int findMaxConsecutiveOnes(vector<int> &nums)
 {
-public:
-      int val;
-      ListNode *next;
-      ListNode() : val(0), next(nullptr) {}
-      ListNode(int x) : val(x), next(nullptr) {}
-      ListNode(int x, ListNode *next) : val(x), next(next) {}
-};
+      int n = nums.size();
+
+      int count = 0;
+      int ans = 0;
+      for (int i = 0; i < n; i++)
+      {
+            if (nums[i] == 1)
+                  count++;
+            else
+            {
+                  ans = max(ans, count);
+                  count = 0;
+            }
+      }
+
+      ans = max(ans, count);
+
+      return ans;
+}
 
 signed main()
 {
       ios_base::sync_with_stdio(0);
       cin.tie(0);
       cout.tie(0);
+
+      vector<int> nums = {1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1};
+
+      int maxConsecutiveOnes = findMaxConsecutiveOnes(nums);
+
+      cout << "Maximum Consecutive Ones: " << maxConsecutiveOnes << endl;
 
       return 0;
 }

@@ -17,21 +17,43 @@ using namespace std;
 #define MAX 100005
 #define int ll
 
-class ListNode
+int removeDuplicates(vector<int> &nums)
 {
-public:
-      int val;
-      ListNode *next;
-      ListNode() : val(0), next(nullptr) {}
-      ListNode(int x) : val(x), next(nullptr) {}
-      ListNode(int x, ListNode *next) : val(x), next(next) {}
-};
+      int n = nums.size();
+
+      set<int> ans_set;
+      for (int i = 0; i < n; i++)
+            ans_set.insert(nums[i]);
+
+      int m = ans_set.size();
+      vector<int> ans;
+      for (auto it = ans_set.begin(); it != ans_set.end(); ++it)
+            ans.push_back(*it);
+
+      nums = ans;
+      return ans.size();
+}
 
 signed main()
 {
       ios_base::sync_with_stdio(0);
       cin.tie(0);
       cout.tie(0);
+
+      vector<int> nums = {1, 1, 2, 2, 3, 4, 5, 5, 5, 6};
+
+      int newSize = removeDuplicates(nums);
+
+      cout << "New size of array after removing duplicates: " << newSize << endl;
+
+      cout << "Modified array without duplicates: ";
+      for (int i = 0; i < newSize; ++i)
+      {
+            cout << nums[i];
+            if (i < newSize - 1)
+                  cout << ", ";
+      }
+      cout << endl;
 
       return 0;
 }
